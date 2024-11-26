@@ -2,7 +2,7 @@
 	"workflow": {
 		"owner": "aayush2622",
 		"repo": "Dartotsu",
-		"name": "release.yml",
+		"name": "customBuild.yml",
 		"branch": "main"
 	},
 	"delay": 10
