@@ -1,9 +1,9 @@
 {
 	"workflow": {
-		"owner": "rebelonion",
-		"repo": "Dantotsu",
-		"name": "beta.yml",
-		"branch": "dev"
+		"owner": "aayush2622",
+		"repo": "Dartotsu",
+		"name": "release.yml",
+		"branch": "main"
 	},
 	"delay": 10
 }
